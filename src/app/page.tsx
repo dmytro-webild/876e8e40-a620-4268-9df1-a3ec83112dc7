@@ -60,9 +60,9 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EBdIgeDiqJKtDxKct4283IVjND/uploaded-1779892852765-wdf7493m.jpg",          imageAlt: "Roofer working on a residential roof"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EBdIgeDiqJKtDxKct4283IVjND/uploaded-1779892852765-wdf7493m.jpg?_wi=1",          imageAlt: "Roofer working on a residential roof"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EBdIgeDiqJKtDxKct4283IVjND/uploaded-1779892852765-mjg92oi9.jpg",          imageAlt: "Close up of a roofer installing shingles"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EBdIgeDiqJKtDxKct4283IVjND/uploaded-1779892852765-mjg92oi9.jpg?_wi=1",          imageAlt: "Close up of a roofer installing shingles"},
         {
           imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-man-working-roof_23-2149343654.jpg",          imageAlt: "Roofer smiling while working on a roof"},
         {
@@ -84,13 +84,13 @@ export default function LandingPage() {
       uniformGridCustomHeightClasses="min-h-none"
       products={[
         {
-          id: "residential",          name: "Residential Roofing",          price: "Asphalt, Metal, Tile",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EBdIgeDiqJKtDxKct4283IVjND/uploaded-1779892852765-wdf7493m.jpg",          imageAlt: "Residential asphalt shingle roof installation"},
+          id: "residential",          name: "Residential Roofing",          price: "Asphalt, Metal, Tile",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EBdIgeDiqJKtDxKct4283IVjND/uploaded-1779892852765-wdf7493m.jpg?_wi=2",          imageAlt: "Residential asphalt shingle roof installation"},
         {
           id: "commercial",          name: "Commercial Roofing",          price: "Flat, TPO, PVC",          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-professional-engineer-with-laptop-tablet-maintenance-checking-installing-solar-roof-panel-factory-rooftop-sunlight-engineers-team-survey-check-solar-panel-roof_609648-2187.jpg",          imageAlt: "Commercial building flat roof"},
         {
           id: "repair",          name: "Roof Repair",          price: "Leaks, Damage, Emergency",          imageSrc: "http://img.b2bpic.net/free-photo/man-working-roof-with-drill-low-view_23-2148748772.jpg",          imageAlt: "Damaged roof shingles undergoing repair"},
         {
-          id: "installation",          name: "New Installations",          price: "Expert, Efficient, Durable",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EBdIgeDiqJKtDxKct4283IVjND/uploaded-1779892852765-mjg92oi9.jpg",          imageAlt: "Close-up of a new roof construction"},
+          id: "installation",          name: "New Installations",          price: "Expert, Efficient, Durable",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EBdIgeDiqJKtDxKct4283IVjND/uploaded-1779892852765-mjg92oi9.jpg?_wi=2",          imageAlt: "Close-up of a new roof construction"},
         {
           id: "skylight",          name: "Skylight Installation",          price: "Natural Light, Modern Design",          imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-wooden-house_23-2151264408.jpg",          imageAlt: "Modern house with skylight"},
         {
@@ -117,11 +117,11 @@ export default function LandingPage() {
       cardClassName="h-auto"
       metrics={[
         {
-          id: "experience",          value: "20+",          title: "Years Experience",          description: "Two decades of dedicated service in the Canadian roofing industry.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EBdIgeDiqJKtDxKct4283IVjND/uploaded-1779892852765-wdf7493m.jpg",          imageAlt: "Experienced roofer at work"},
+          id: "experience",          value: "20+",          title: "Years Experience",          description: "Two decades of dedicated service in the Canadian roofing industry.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EBdIgeDiqJKtDxKct4283IVjND/uploaded-1779892852765-wdf7493m.jpg?_wi=3",          imageAlt: "Experienced roofer at work"},
         {
           id: "customers",          value: "5000+",          title: "Satisfied Customers",          description: "Thousands of happy homeowners and business owners trust our quality.",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-friends-taking-selfies_23-2148903564.jpg",          imageAlt: "Happy family in front of their home"},
         {
-          id: "projects",          value: "10000+",          title: "Projects Completed",          description: "Successfully delivered a wide range of residential and commercial projects.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EBdIgeDiqJKtDxKct4283IVjND/uploaded-1779892852765-mjg92oi9.jpg",          imageAlt: "Roof construction blueprint"},
+          id: "projects",          value: "10000+",          title: "Projects Completed",          description: "Successfully delivered a wide range of residential and commercial projects.",          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EBdIgeDiqJKtDxKct4283IVjND/uploaded-1779892852765-mjg92oi9.jpg?_wi=3",          imageAlt: "Roof construction blueprint"},
         {
           id: "awards",          value: "Top Rated",          title: "Industry Awards",          description: "Recognized for our exceptional service and quality craftsmanship.",          imageSrc: "http://img.b2bpic.net/free-photo/business-woman-happy-cute-girl-giving-handshake-with-trophy-with-red-lipstick-office-outfit_140725-161416.jpg",          imageAlt: "Award trophy"},
       ]}
@@ -212,7 +212,7 @@ export default function LandingPage() {
         name: "message",        placeholder: "Tell us about your roofing needs...",        rows: 4,
         required: true,
       }}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EBdIgeDiqJKtDxKct4283IVjND/uploaded-1779892852765-wdf7493m.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EBdIgeDiqJKtDxKct4283IVjND/uploaded-1779892852765-wdf7493m.jpg?_wi=4"
       imageAlt="Roofer inspecting residential roof blueprint with a client"
       mediaAnimation="slide-up"
       mediaPosition="right"
